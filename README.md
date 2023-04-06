@@ -13,6 +13,6 @@ L'API est réalisé avec Flask. Les diffèrentes étapes se composent de la mani
   - l'application renvoie une suggestions de tags pour l'utilisateur
 ---
 ## Docker
-Un dockerfile est disponible pour l'API. Pour le lancer une fois dans le dossier de l'application:
-`docker build -t stack .`
-`docker run stack`
+Un dockerfile est disponible pour l'API. Pour le lancer une fois dans le dossier de l'application:\
+`docker build -t stack .`\
+`docker run stack`\
