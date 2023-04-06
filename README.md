@@ -15,4 +15,4 @@ L'API est réalisé avec Flask. Les diffèrentes étapes se composent de la mani
 ## Docker
 Un dockerfile est disponible pour l'API. Pour le lancer une fois dans le dossier de l'application:\
 `docker build -t stack .`\
-`docker run stack`\
+`docker run stack`
